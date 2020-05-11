@@ -1,3 +1,14 @@
+---
+title:  "Algorithm - 정렬"
+excerpt: "버블 정렬, 카운팅 정렬"
+
+categories:
+  - Algorithm
+tags:
+  - Sort
+last_modified_at: 2020-05-11T22:27:00-05:00
+---
+
 # 정렬
 
 ## 버블 정렬
