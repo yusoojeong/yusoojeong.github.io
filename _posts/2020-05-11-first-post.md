@@ -5,7 +5,7 @@ excerpt: "버블 정렬, 카운팅 정렬"
 categories:
   - Algorithm
 tags:
-  - Sort
+  - Algorithm
 last_modified_at: 2020-05-11T22:27:00-05:00
 ---
 

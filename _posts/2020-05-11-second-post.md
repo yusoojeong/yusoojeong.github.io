@@ -5,9 +5,11 @@ excerpt: "완전 검색, 그리디"
 categories:
   - Algorithm
 tags:
-  - greedy
+  - Algorithm
 last_modified_at: 2020-05-11T22:27:00-05:00
 ---
+
+# 알고리즘
 
 ## 완전 검색
 > 문제의 해법으로 생각할 수 있는 **모든 경우의 수를 나열해 확인하는 기법**
