@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
 ### My Expertise
-
 SW Engineer
 
 You can find the source code for the Jekyll new theme at:
