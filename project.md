@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Project
+layout: default
+title: My Project
 permalink: /project/
 ---
-
-## Project
