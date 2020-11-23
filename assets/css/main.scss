@@ -1,6 +1,30 @@
 ---
-# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
-# only main files contain this front matter, not partials.
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap:
+  exclude: 'yes'
 ---
+@charset "utf-8";
 
-@import "hydeout";
+@import "mixins";
+@import "variables";
+
+@import "base";
+
+@import "header";
+@import "articles";
+@import "titles";
+@import "hero";
+
+@import "components";
+
+@import "notices";
+@import "blockquote";
+@import "table";
+@import "code";
+
+@import "404";
+@import "jekyll-github";
+@import "pagination";
+@import "footer";
+
+@import "icons";
