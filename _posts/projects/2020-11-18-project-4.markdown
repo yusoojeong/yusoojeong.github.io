@@ -1,0 +1,15 @@
+---
+title: 그리고 아무도 없었다
+subtitle: Frontend + DB
+layout: about
+modal-id: 4
+date: 2020-11-18
+img: andnothing.png
+thumbnail: andnothing-thumbnail.png
+alt: image-alt
+project-date: 2020-10-14 ~ 2020-11-18
+client: Start Bootstrap
+category: Web Development
+description: AI를 결합한 PC 웹 실시간 파티게임
+
+---

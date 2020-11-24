@@ -1,0 +1,15 @@
+---
+title: Last Meal(지난밥)
+subtitle: Full Stack
+layout: default
+modal-id: 3
+date: 2020-10-08
+img: lastmeal.png
+thumbnail: lastmeal-thumbnail.png
+alt: image-alt
+project-date: 2020-08-31 ~ 2020-10-08
+client: Start Bootstrap
+category: Web Development
+description: AI 기반의 모바일 웹 식단 관리 어플리케이션
+
+---

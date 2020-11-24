@@ -10,6 +10,6 @@ alt: RETURN-image-alt
 project-date: 2020-06-11 ~ 2020-06-17
 client: Start Bootstrap
 category: Web Development
-description: 평점을 기반으로 한 영화 커뮤니티 웹사이트
+description: 평점 기반의 영화 추천 커뮤니티 웹사이트
 
 ---
