@@ -1,7 +1,7 @@
 ---
 title: Null 담은 공간
 subtitle: Frontend + Web Design
-layout: default
+layout: about
 modal-id: 2
 date: 2020-08-21
 img: null.png
