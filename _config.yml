@@ -21,41 +21,6 @@ social:
 disqus:
   shortname: yusj # to enable comments replace with your_disqus_shortname
 
-# Team names, titles and social links
-people:
-- name: TEST1
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: TEST2
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: TEST3
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
 # Build settings
 markdown: kramdown
 highlighter: rouge # or pygments or null
