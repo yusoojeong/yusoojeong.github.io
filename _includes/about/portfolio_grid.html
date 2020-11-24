@@ -1,6 +1,4 @@
----
-layout: style
----
+
 <!-- Portfolio Grid Section -->
     <section id="portfolio" class="bg-light-gray">
         <div class="container">
@@ -11,7 +9,7 @@ layout: style
                 </div>
             </div>
             <div class="row">
-            {% for post in site.posts.projects %}
+            {% for post in site.categories.projects %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
