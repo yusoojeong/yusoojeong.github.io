@@ -11,7 +11,7 @@ layout: style
                 </div>
             </div>
             <div class="row">
-            {% for post in site.posts %}
+            {% for post in site.posts.projects %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
@@ -19,7 +19,7 @@ layout: style
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                        <img src="assets/img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>{{ post.title }}</h4>
