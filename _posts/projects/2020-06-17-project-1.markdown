@@ -4,8 +4,8 @@ subtitle: Full Stack
 layout: about
 modal-id: 1
 date: 2020-06-17
-img: return.png
-thumbnail: return-thumbnail.png
+img: RETURN.png
+thumbnail: RETURN-thumbnail.png
 alt: RETURN-image-alt
 project-date: 2020-06-11 ~ 2020-06-17
 client: Start Bootstrap
