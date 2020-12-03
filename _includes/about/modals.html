@@ -16,18 +16,22 @@
                                 <h2>{{ post.title }}</h2>
                                 <hr class="star-primary">
                                 <img src="../assets/img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                                
                                 <h4>{{ post.description }}</h4>
+                                <p>Date: <strong>{{ post.project-date }}</strong></p>
                                 <br>
                                 <p><strong>My part: {{ post.mywork }}</strong></p>
                                 <p>{{ post.details }}</p>
                                 <hr class="star-primary">
+                                
                                 <ul class="list-inline item-details">
+                                    {% if post.git %}
+                                        <li>Git:
+                                            <strong><a href="{{ post.git }}">Git Link</a></strong>
+                                        </li>
+                                    {% endif %}
                                     <li>Document:
                                         <strong><a href="{{ post.readme }}">Go Readme</a>
-                                        </strong>
-                                    </li>
-                                    <li>Date:
-                                        <strong>{{ post.project-date }}</a>
                                         </strong>
                                     </li>
                                     <li>Video:
