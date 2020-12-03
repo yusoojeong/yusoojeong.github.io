@@ -11,6 +11,7 @@ project-date: 2020-10-14 ~ 2020-11-18
 ucc: https://youtu.be/dCh7_HpKsk4
 readme: Start Bootstrap
 video: https://youtu.be/6qu5MfQIUhE
-description: AI를 결합한 PC 웹 실시간 파티게임
-
+description: AI를 결합한 PC 웹 실시간 파티게임(5인)
+mywork: Frontend - WaitRoom RUD | Game Playing / Backend - Django Server 구축, Mysql 1차 구축
+details: Django, Spring, Vue.js, Mysql을 사용하여 구현한 웹 게임. 비대면 시국에 맞게 실시간으로 여러 사람들과 소통하며 즐기는 파티게임으로, 그림을 그려서 제시어를 모르는 Shadow를 찾아내는 것이 목표.
 ---

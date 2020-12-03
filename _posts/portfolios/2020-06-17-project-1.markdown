@@ -10,6 +10,7 @@ alt: RETURN-image-alt
 project-date: 2020-06-11 ~ 2020-06-17
 readme: Start Bootstrap
 video: Web Development
-description: 평점 기반의 영화 추천 커뮤니티 웹사이트
-
+description: 평점 기반의 영화 추천 커뮤니티 웹사이트(2인)
+mywork: User CRUD | Movie CRUD | Database
+details: Django Framework와 sqlite를 사용하여 구현한 웹사이트. TMDB API를 사용하여 Database를 구축. 사용자의 영화 선호도(좋아요/싫어요)를 기반으로 장르에 점수를 매겨 사용자 맞춤형 영화를 추천하는 것이 목적. 
 ---
