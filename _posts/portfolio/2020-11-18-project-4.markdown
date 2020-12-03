@@ -8,8 +8,9 @@ img: andnothing.png
 thumbnail: andnothing-thumbnail.png
 alt: image-alt
 project-date: 2020-10-14 ~ 2020-11-18
-client: Start Bootstrap
-category: Web Development
+ucc: https://youtu.be/dCh7_HpKsk4
+readme: Start Bootstrap
+video: https://youtu.be/6qu5MfQIUhE
 description: AI를 결합한 PC 웹 실시간 파티게임
 
 ---

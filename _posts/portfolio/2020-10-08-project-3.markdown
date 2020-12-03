@@ -8,8 +8,8 @@ img: lastmeal.png
 thumbnail: lastmeal-thumbnail.png
 alt: image-alt
 project-date: 2020-08-31 ~ 2020-10-08
-client: Start Bootstrap
-category: Web Development
+readme: Start Bootstrap
+video: https://youtu.be/D4NPHyr7r24
 description: AI 기반의 모바일 웹 식단 관리 어플리케이션
 
 ---
