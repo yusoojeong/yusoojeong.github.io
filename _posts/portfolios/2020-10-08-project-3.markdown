@@ -11,6 +11,6 @@ project-date: 2020-08-31 ~ 2020-10-08
 readme: Start Bootstrap
 video: https://youtu.be/D4NPHyr7r24
 description: AI 기반의 모바일 웹 식단 관리 어플리케이션(5인)
-mywork: Frontend - Week Report | Main Graph | Search / Backend - Menu CRUD, Front 연동
+mywork: Frontend(Report|Graph|Search) Backend(Menu CRUD)
 details: Django Framework와 Vue.js, Mysql을 사용하여 구현한 웹사이트. 기존 식단 관리 어플들과 달리 AI를 사용하여 사진 한 장으로 식단 기록을 할 수 있는 어플리케이션을 목표.
 ---
