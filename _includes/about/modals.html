@@ -47,6 +47,11 @@
                                             <strong><a href="{{ post.ucc }}">UCC Link</a></strong>
                                         </li>
                                     {% endif %}
+                                    {% if post.manual %}
+                                        <li>Manual:
+                                            <strong><a href="../assets/document/{{ post.manual }}">PDF Link</a></strong>
+                                        </li>
+                                    {% endif %}
                                 </ul>
                                 <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                             </div>
