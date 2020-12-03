@@ -1,14 +1,14 @@
 ---
+layout: post
 title: RETURN
+featured-img: shane-rounce-205187
+summary: 평점 기반의 영화 추천 커뮤니티 웹사이트(2인) - Django, Python, Sqlite, Git
 subtitle: Full Stack
-layout: about
-modal-id: 1
-date: 2020-06-17
 img: RETURN.png
 thumbnail: RETURN-thumbnail.png
 alt: RETURN-image-alt
 project-date: 2020-06-11 ~ 2020-06-17
-readme: https://github.com/yusoojeong/README/blob/main/PJT01/README.md
+readme: Start Bootstrap
 video: Web Development
 description: 평점 기반의 영화 추천 커뮤니티 웹사이트(2인)
 mywork: FullStack(User|Movie|Database)

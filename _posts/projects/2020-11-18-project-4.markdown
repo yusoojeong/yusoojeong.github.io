@@ -1,7 +1,8 @@
 ---
+layout: post
 title: 그리고 아무도 없었다
 subtitle: Frontend + DB
-layout: about
+summary: AI를 결합한 PC 웹 실시간 파티게임(5인) - Django, Spring, Vue.js, Mysql, Git, Jira
 modal-id: 4
 date: 2020-11-18
 img: andnothing.png
@@ -9,7 +10,7 @@ thumbnail: andnothing-thumbnail.png
 alt: image-alt
 project-date: 2020-10-14 ~ 2020-11-18
 ucc: https://youtu.be/dCh7_HpKsk4
-readme: https://github.com/yusoojeong/README/blob/main/PJT04/README.md
+readme: Start Bootstrap
 video: https://youtu.be/6qu5MfQIUhE
 git: https://github.com/yusoojeong/free_final
 description: AI를 결합한 PC 웹 실시간 파티게임(5인)

@@ -1,14 +1,15 @@
 ---
+layout: post
 title: Last Meal(지난밥)
 subtitle: Full Stack
-layout: about
+summary: AI 기반의 모바일 웹 식단 관리 어플리케이션(5인) - Django, Vue.js, Mysql, Git, Jira, Jenkins, SonarQube
 modal-id: 3
 date: 2020-10-08
 img: lastmeal.png
 thumbnail: lastmeal-thumbnail.png
 alt: image-alt
 project-date: 2020-08-31 ~ 2020-10-08
-readme: https://github.com/yusoojeong/README/blob/main/PJT03/README.md
+readme: Start Bootstrap
 video: https://youtu.be/D4NPHyr7r24
 git: https://github.com/yusoojeong/AI_lastmeal
 description: AI 기반의 모바일 웹 식단 관리 어플리케이션(5인)
