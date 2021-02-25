@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RETURN
-featured-img: shane-rounce-205187
+featured-img: RETURN-thumbnail.png
 summary: 평점 기반의 영화 추천 커뮤니티 웹사이트(2인) - Django, Python, Sqlite, Git
 subtitle: Full Stack
 img: RETURN.png
